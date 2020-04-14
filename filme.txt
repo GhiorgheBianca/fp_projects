@@ -1,0 +1,5 @@
+10,morometii,invatati pentru bac. Foarte bine,drama
+20,thehorse,si marea cea albastra,adventure
+30,studentia,the movie,thriller
+40,python,not the snake but the code,drama
+50,memoriam,un film despre o familie,action
