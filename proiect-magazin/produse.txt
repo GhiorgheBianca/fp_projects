@@ -1,0 +1,6 @@
+1,patrunjel,1.25
+2,cascaval,5.78
+4,sunca,7.08
+12,sarmale,100.1
+14,cipsuri,3.6
+15,varza,6.0
